@@ -1,0 +1,168 @@
+Removed Pin From Net: NetName=X_M1 Pin=U1-11
+Removed Pin From Net: NetName=X_M0 Pin=U1-12
+Removed Pin From Net: NetName=X_DIR Pin=U1-13
+Removed Pin From Net: NetName=X_ENABLE Pin=U1-14
+Removed Pin From Net: NetName=X_\SLEEP Pin=U1-15
+Removed Pin From Net: NetName=X_STEP Pin=U1-16
+Removed Pin From Net: NetName=X_nFAULT Pin=U1-17
+Removed Pin From Net: NetName=Y_M1 Pin=U1-19
+Removed Pin From Net: NetName=Y_M0 Pin=U1-22
+Removed Pin From Net: NetName=Y_DIR Pin=U1-23
+Removed Pin From Net: NetName=Y_STEP Pin=U1-25
+Removed Pin From Net: NetName=Y_\SLEEP Pin=U1-26
+Removed Pin From Net: NetName=Y_nFAULT Pin=U1-27
+Removed Pin From Net: NetName=NetLCD_J2_3 Pin=U1-28
+Removed Pin From Net: NetName=NetLCD_J2_1 Pin=U1-29
+Removed Pin From Net: NetName=NetLCD_J2_4 Pin=U1-31
+Removed Pin From Net: NetName=FLASH_MISO Pin=U1-40
+Removed Pin From Net: NetName=FLASH_MOSI Pin=U1-41
+Removed Pin From Net: NetName=FLASH_Clk Pin=U1-42
+Removed Pin From Net: NetName=FLASH_nCS Pin=U1-43
+Removed Pin From Net: NetName=NetC28_1 Pin=U1-52
+Removed Pin From Net: NetName=NetC29_2 Pin=U1-54
+Removed Pin From Net: NetName=Z_M1 Pin=U1-58
+Removed Pin From Net: NetName=Z_M0 Pin=U1-60
+Removed Pin From Net: NetName=Z_DIR Pin=U1-61
+Removed Pin From Net: NetName=Z_ENABLE Pin=U1-62
+Removed Pin From Net: NetName=NetC25_2 Pin=U1-63
+Removed Pin From Net: NetName=NetC26_2 Pin=U1-65
+Removed Pin From Net: NetName=NetC27_2 Pin=U1-66
+Removed Pin From Net: NetName=NetJ1_2 Pin=U1-68
+Removed Pin From Net: NetName=NetJ1_3 Pin=U1-69
+Removed Pin From Net: NetName=NetR31_1 Pin=U1-71
+Removed Pin From Net: NetName=Z_\SLEEP Pin=U1-72
+Removed Pin From Net: NetName=Z_nFAULT Pin=U1-73
+Removed Pin From Net: NetName=JTAG_TDO Pin=U1-82
+Removed Pin From Net: NetName=JTAG_TDI Pin=U1-83
+Removed Pin From Net: NetName=JTAG_TMS Pin=U1-84
+Removed Pin From Net: NetName=JTAG_TCK Pin=U1-85
+Removed Pin From Net: NetName=EX_M1 Pin=U1-91
+Removed Pin From Net: NetName=EX_M0 Pin=U1-95
+Removed Pin From Net: NetName=EX_DIR Pin=U1-97
+Removed Pin From Net: NetName=EX_ENABLE Pin=U1-98
+Removed Pin From Net: NetName=EX_\SLEEP Pin=U1-99
+Removed Pin From Net: NetName=EX_nFAULT Pin=U1-100
+Removed Pin From Net: NetName=NetC30_2 Pin=U9-5
+Removed Pin From Net: NetName=GND Pin=U9-6
+Removed Pin From Net: NetName=GND Pin=U9-10
+Removed Pin From Net: NetName=NetC30_2 Pin=U9-20
+Removed Pin From Net: NetName=GND Pin=U9-21
+Removed Pin From Net: NetName=NetC30_2 Pin=U9-32
+Removed Pin From Net: NetName=GND Pin=U9-33
+Removed Pin From Net: NetName=NetC36_2 Pin=U9-38
+Removed Pin From Net: NetName=NetC30_2 Pin=U9-44
+Removed Pin From Net: NetName=GND Pin=U9-45
+Removed Pin From Net: NetName=NetC28_2 Pin=U9-53
+Removed Pin From Net: NetName=NetC30_2 Pin=U9-55
+Removed Pin From Net: NetName=NetC30_2 Pin=U9-56
+Removed Pin From Net: NetName=GND Pin=U9-57
+Removed Pin From Net: NetName=GND Pin=U9-64
+Removed Pin From Net: NetName=NetC30_2 Pin=U9-67
+Removed Pin From Net: NetName=NetC30_2 Pin=U9-80
+Removed Pin From Net: NetName=GND Pin=U9-81
+Removed Pin From Net: NetName=NetC36_2 Pin=U9-86
+Removed Pin From Net: NetName=NetC30_2 Pin=U9-93
+Removed Pin From Net: NetName=GND Pin=U9-94
+Removed Member From Class: ClassName=MCU Member=U1
+Removed Member From Class: ClassName=MCU Member=U9
+Added Component: Designator=U?(PZ100)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TM4C123GH6PZI7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Added Component: Designator=U?(PZ100)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TM4C123GH6PZI7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC30_2 Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=X_M1 Pin=U?-11
+Added Pin To Net: NetName=X_M0 Pin=U?-12
+Added Pin To Net: NetName=X_DIR Pin=U?-13
+Added Pin To Net: NetName=X_ENABLE Pin=U?-14
+Added Pin To Net: NetName=X_\SLEEP Pin=U?-15
+Added Pin To Net: NetName=X_STEP Pin=U?-16
+Added Pin To Net: NetName=X_nFAULT Pin=U?-17
+Added Pin To Net: NetName=Y_M1 Pin=U?-19
+Added Pin To Net: NetName=NetC30_2 Pin=U?-20
+Added Pin To Net: NetName=GND Pin=U?-21
+Added Pin To Net: NetName=Y_M0 Pin=U?-22
+Added Pin To Net: NetName=Y_DIR Pin=U?-23
+Added Pin To Net: NetName=Y_STEP Pin=U?-25
+Added Pin To Net: NetName=Y_\SLEEP Pin=U?-26
+Added Pin To Net: NetName=Y_nFAULT Pin=U?-27
+Added Pin To Net: NetName=NetLCD_J2_3 Pin=U?-28
+Added Pin To Net: NetName=NetLCD_J2_1 Pin=U?-29
+Added Pin To Net: NetName=NetLCD_J2_4 Pin=U?-31
+Added Pin To Net: NetName=NetC30_2 Pin=U?-32
+Added Pin To Net: NetName=GND Pin=U?-33
+Added Pin To Net: NetName=NetC36_2 Pin=U?-38
+Added Pin To Net: NetName=FLASH_MISO Pin=U?-40
+Added Pin To Net: NetName=FLASH_MOSI Pin=U?-41
+Added Pin To Net: NetName=FLASH_Clk Pin=U?-42
+Added Pin To Net: NetName=FLASH_nCS Pin=U?-43
+Added Pin To Net: NetName=NetC30_2 Pin=U?-44
+Added Pin To Net: NetName=GND Pin=U?-45
+Added Pin To Net: NetName=NetC28_1 Pin=U?-52
+Added Pin To Net: NetName=NetC28_2 Pin=U?-53
+Added Pin To Net: NetName=NetC29_2 Pin=U?-54
+Added Pin To Net: NetName=NetC30_2 Pin=U?-55
+Added Pin To Net: NetName=NetC30_2 Pin=U?-56
+Added Pin To Net: NetName=GND Pin=U?-57
+Added Pin To Net: NetName=Z_M1 Pin=U?-58
+Added Pin To Net: NetName=Z_M0 Pin=U?-60
+Added Pin To Net: NetName=Z_DIR Pin=U?-61
+Added Pin To Net: NetName=Z_ENABLE Pin=U?-62
+Added Pin To Net: NetName=NetC25_2 Pin=U?-63
+Added Pin To Net: NetName=GND Pin=U?-64
+Added Pin To Net: NetName=NetC26_2 Pin=U?-65
+Added Pin To Net: NetName=NetC27_2 Pin=U?-66
+Added Pin To Net: NetName=NetC30_2 Pin=U?-67
+Added Pin To Net: NetName=NetJ1_2 Pin=U?-68
+Added Pin To Net: NetName=NetJ1_3 Pin=U?-69
+Added Pin To Net: NetName=NetR31_1 Pin=U?-71
+Added Pin To Net: NetName=Z_\SLEEP Pin=U?-72
+Added Pin To Net: NetName=Z_nFAULT Pin=U?-73
+Added Pin To Net: NetName=NetC30_2 Pin=U?-80
+Added Pin To Net: NetName=GND Pin=U?-81
+Added Pin To Net: NetName=JTAG_TDO Pin=U?-82
+Added Pin To Net: NetName=JTAG_TDI Pin=U?-83
+Added Pin To Net: NetName=JTAG_TMS Pin=U?-84
+Added Pin To Net: NetName=JTAG_TCK Pin=U?-85
+Added Pin To Net: NetName=NetC36_2 Pin=U?-86
+Added Pin To Net: NetName=EX_M1 Pin=U?-91
+Added Pin To Net: NetName=NetC30_2 Pin=U?-93
+Added Pin To Net: NetName=GND Pin=U?-94
+Added Pin To Net: NetName=EX_M0 Pin=U?-95
+Added Pin To Net: NetName=EX_DIR Pin=U?-97
+Added Pin To Net: NetName=EX_ENABLE Pin=U?-98
+Added Pin To Net: NetName=EX_\SLEEP Pin=U?-99
+Added Pin To Net: NetName=EX_nFAULT Pin=U?-100
+Added Pin To Net: NetName=NetU?_24 Pin=U?-24
+Added Net: Name=NetU?_24
+Added Pin To Net: NetName=NetU?_46 Pin=U?-46
+Added Net: Name=NetU?_46
+Added Pin To Net: NetName=NetU?_47 Pin=U?-47
+Added Net: Name=NetU?_47
+Added Pin To Net: NetName=NetU?_48 Pin=U?-48
+Added Net: Name=NetU?_48
+Added Pin To Net: NetName=NetU?_49 Pin=U?-49
+Added Net: Name=NetU?_49
+Added Pin To Net: NetName=NetU?_51 Pin=U?-51
+Added Net: Name=NetU?_51
+Added Pin To Net: NetName=NetU?_59 Pin=U?-59
+Added Net: Name=NetU?_59
+Added Pin To Net: NetName=NetU?_96 Pin=U?-96
+Added Net: Name=NetU?_96
+Added Member To Class: ClassName=MCU Member=Component U? Part Number: TM4C123GH6PZI7
+Added Member To Class: ClassName=MCU Member=Component U? Part Number: TM4C123GH6PZI7

@@ -1,0 +1,105 @@
+Removed Pin From Net: NetName=X_M1 Pin=U?-11
+Removed Pin From Net: NetName=X_M0 Pin=U?-12
+Removed Pin From Net: NetName=X_DIR Pin=U?-13
+Removed Pin From Net: NetName=X_ENABLE Pin=U?-14
+Removed Pin From Net: NetName=X_\SLEEP Pin=U?-15
+Removed Pin From Net: NetName=X_STEP Pin=U?-16
+Removed Pin From Net: NetName=X_nFAULT Pin=U?-17
+Removed Pin From Net: NetName=Y_M1 Pin=U?-19
+Removed Pin From Net: NetName=Y_M0 Pin=U?-22
+Removed Pin From Net: NetName=Y_DIR Pin=U?-23
+Removed Pin From Net: NetName=Y_STEP Pin=U?-25
+Removed Pin From Net: NetName=Y_\SLEEP Pin=U?-26
+Removed Pin From Net: NetName=Y_nFAULT Pin=U?-27
+Removed Pin From Net: NetName=NetLCD_J2_3 Pin=U?-28
+Removed Pin From Net: NetName=NetLCD_J2_1 Pin=U?-29
+Removed Pin From Net: NetName=NetLCD_J2_4 Pin=U?-31
+Removed Pin From Net: NetName=FLASH_MISO Pin=U?-40
+Removed Pin From Net: NetName=FLASH_MOSI Pin=U?-41
+Removed Pin From Net: NetName=FLASH_Clk Pin=U?-42
+Removed Pin From Net: NetName=FLASH_nCS Pin=U?-43
+Removed Pin From Net: NetName=NetC28_1 Pin=U?-52
+Removed Pin From Net: NetName=NetC29_2 Pin=U?-54
+Removed Pin From Net: NetName=Z_M1 Pin=U?-58
+Removed Pin From Net: NetName=Z_M0 Pin=U?-60
+Removed Pin From Net: NetName=Z_DIR Pin=U?-61
+Removed Pin From Net: NetName=Z_ENABLE Pin=U?-62
+Removed Pin From Net: NetName=NetC25_2 Pin=U?-63
+Removed Pin From Net: NetName=NetC26_2 Pin=U?-65
+Removed Pin From Net: NetName=NetC27_2 Pin=U?-66
+Removed Pin From Net: NetName=NetJ1_2 Pin=U?-68
+Removed Pin From Net: NetName=NetJ1_3 Pin=U?-69
+Removed Pin From Net: NetName=NetR31_1 Pin=U?-71
+Removed Pin From Net: NetName=Z_\SLEEP Pin=U?-72
+Removed Pin From Net: NetName=Z_nFAULT Pin=U?-73
+Removed Pin From Net: NetName=JTAG_TDO Pin=U?-82
+Removed Pin From Net: NetName=JTAG_TDI Pin=U?-83
+Removed Pin From Net: NetName=JTAG_TMS Pin=U?-84
+Removed Pin From Net: NetName=JTAG_TCK Pin=U?-85
+Removed Pin From Net: NetName=EX_M1 Pin=U?-91
+Removed Pin From Net: NetName=EX_M0 Pin=U?-95
+Removed Pin From Net: NetName=EX_DIR Pin=U?-97
+Removed Pin From Net: NetName=EX_ENABLE Pin=U?-98
+Removed Pin From Net: NetName=EX_\SLEEP Pin=U?-99
+Removed Pin From Net: NetName=EX_nFAULT Pin=U?-100
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Pin To Net: NetName=X_M1 Pin=U1-11
+Added Pin To Net: NetName=X_M0 Pin=U1-12
+Added Pin To Net: NetName=X_DIR Pin=U1-13
+Added Pin To Net: NetName=X_ENABLE Pin=U1-14
+Added Pin To Net: NetName=X_\SLEEP Pin=U1-15
+Added Pin To Net: NetName=X_STEP Pin=U1-16
+Added Pin To Net: NetName=X_nFAULT Pin=U1-17
+Added Pin To Net: NetName=Y_M1 Pin=U1-19
+Added Pin To Net: NetName=Y_M0 Pin=U1-22
+Added Pin To Net: NetName=Y_DIR Pin=U1-23
+Added Pin To Net: NetName=Y_STEP Pin=U1-25
+Added Pin To Net: NetName=Y_\SLEEP Pin=U1-26
+Added Pin To Net: NetName=Y_nFAULT Pin=U1-27
+Added Pin To Net: NetName=NetLCD_J2_3 Pin=U1-28
+Added Pin To Net: NetName=NetLCD_J2_1 Pin=U1-29
+Added Pin To Net: NetName=NetLCD_J2_4 Pin=U1-31
+Added Pin To Net: NetName=FLASH_MISO Pin=U1-40
+Added Pin To Net: NetName=FLASH_MOSI Pin=U1-41
+Added Pin To Net: NetName=FLASH_Clk Pin=U1-42
+Added Pin To Net: NetName=FLASH_nCS Pin=U1-43
+Added Pin To Net: NetName=NetC28_1 Pin=U1-52
+Added Pin To Net: NetName=NetC29_2 Pin=U1-54
+Added Pin To Net: NetName=Z_M1 Pin=U1-58
+Added Pin To Net: NetName=Z_M0 Pin=U1-60
+Added Pin To Net: NetName=Z_DIR Pin=U1-61
+Added Pin To Net: NetName=Z_ENABLE Pin=U1-62
+Added Pin To Net: NetName=NetC25_2 Pin=U1-63
+Added Pin To Net: NetName=NetC26_2 Pin=U1-65
+Added Pin To Net: NetName=NetC27_2 Pin=U1-66
+Added Pin To Net: NetName=NetJ1_2 Pin=U1-68
+Added Pin To Net: NetName=NetJ1_3 Pin=U1-69
+Added Pin To Net: NetName=NetR31_1 Pin=U1-71
+Added Pin To Net: NetName=Z_\SLEEP Pin=U1-72
+Added Pin To Net: NetName=Z_nFAULT Pin=U1-73
+Added Pin To Net: NetName=JTAG_TDO Pin=U1-82
+Added Pin To Net: NetName=JTAG_TDI Pin=U1-83
+Added Pin To Net: NetName=JTAG_TMS Pin=U1-84
+Added Pin To Net: NetName=JTAG_TCK Pin=U1-85
+Added Pin To Net: NetName=EX_M1 Pin=U1-91
+Added Pin To Net: NetName=EX_M0 Pin=U1-95
+Added Pin To Net: NetName=EX_DIR Pin=U1-97
+Added Pin To Net: NetName=EX_ENABLE Pin=U1-98
+Added Pin To Net: NetName=EX_\SLEEP Pin=U1-99
+Added Pin To Net: NetName=EX_nFAULT Pin=U1-100
+Added Pin To Net: NetName=NetU1_24 Pin=U1-24
+Added Net: Name=NetU1_24
+Added Pin To Net: NetName=NetU1_46 Pin=U1-46
+Added Net: Name=NetU1_46
+Added Pin To Net: NetName=NetU1_47 Pin=U1-47
+Added Net: Name=NetU1_47
+Added Pin To Net: NetName=NetU1_48 Pin=U1-48
+Added Net: Name=NetU1_48
+Added Pin To Net: NetName=NetU1_49 Pin=U1-49
+Added Net: Name=NetU1_49
+Added Pin To Net: NetName=NetU1_51 Pin=U1-51
+Added Net: Name=NetU1_51
+Added Pin To Net: NetName=NetU1_59 Pin=U1-59
+Added Net: Name=NetU1_59
+Added Pin To Net: NetName=NetU1_96 Pin=U1-96
+Added Net: Name=NetU1_96
